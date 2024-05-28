@@ -5,6 +5,6 @@
 #EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF:15.0,
-https://github.com/VOXSHQIP/Stream/blob/main/videoplayback.mp4?raw=true
+https://github.com/VOXSHQIP/Stream/raw/main/videoplayback.mp4
 
 #EXT-X-ENDLIST
