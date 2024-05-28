@@ -5,9 +5,9 @@
 #EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF: 16.0,
-videoplayback.mp4
+https://raw.githubusercontent.com/VOXSHQIP/Stream/main/videoplayback.mp4
 
 #EXTINF: 143.5.0
-20240528222036_U2JDMPuc.mp4
+https://raw.githubusercontent.com/VOXSHQIP/Stream/main/20240528222036_U2JDMPuc.mp4
 
 #EXT-X-ENDLIST
